@@ -1,0 +1,30 @@
+.logo-block{
+  width: 100%;
+  background-color: #1a2126;
+  height: 110px;
+  position: fixed;
+  opacity: 0.9;
+
+
+  .logo-block-container{
+
+    .img-logo{
+      padding-top: 15px;
+    }
+    .navigation-main{
+      height: 100%;
+      padding: 46px 0 45px 0;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.25;
+
+      a{
+        color: #ffffff;
+      }
+    }
+  }
+}
+.empty-block{
+  height: 110px;
+}
